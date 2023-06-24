@@ -6,10 +6,14 @@ The notebook presents a study on the prediction of the price of a smartphone usi
 https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 
 ## Team:
-[Meenakshi Sudhish](https://github.com/MinMint01)
-
-[Prisly Mary Jacob](https://github.com/prislymj)
-
+[Meenakshi Sudhish](https://github.com/MinMint01) |
+[Prisly Mary Jacob](https://github.com/prislymj) |
 [Vinayak Pulkuzhiyil](https://github.com/VinayakVijay12)
+
+
+
+
+
+
 
 *Note: For re-producing the notebook, the user may use the requirements.txt to install the dependencies after setting up the python virtual environment.*
