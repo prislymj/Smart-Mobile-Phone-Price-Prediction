@@ -7,5 +7,7 @@ https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 
 ## Team:
 [Meenakshi Sudhish](https://github.com/MinMint01)
-[Prisly Mary Jacob]
-[Vinayak Pulkuzhiyil]
+
+[Prisly Mary Jacob](https://github.com/prislymj)
+
+[Vinayak Pulkuzhiyil](https://github.com/VinayakVijay12)
