@@ -11,3 +11,5 @@ https://www.kaggle.com/datasets/iabhishekofficial/mobile-price-classification
 [Prisly Mary Jacob](https://github.com/prislymj)
 
 [Vinayak Pulkuzhiyil](https://github.com/VinayakVijay12)
+
+*Note: For re-producing the notebook, the user may use the requirements.txt to install the dependencies after setting up the python virtual environment.*
